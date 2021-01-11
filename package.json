@@ -1,0 +1,56 @@
+{
+  "_from": "github:sbugert/react-native-admob",
+  "_id": "react-native-admob@2.0.0-beta.6",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-admob",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-admob@github:sbugert/react-native-admob",
+    "name": "react-native-admob",
+    "escapedName": "react-native-admob",
+    "rawSpec": "github:sbugert/react-native-admob",
+    "saveSpec": "github:sbugert/react-native-admob",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:sbugert/react-native-admob#6eb700310af53b1be276f007537b2d237824f87f",
+  "_spec": "react-native-admob@github:sbugert/react-native-admob",
+  "_where": "/Users/vasuchawla/Developer/Login2Tech/CF/calcioefinanza",
+  "author": {
+    "name": "Simon Bugert",
+    "email": "simon.bugert@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sbugert/react-native-admob/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "deprecated": false,
+  "description": "A react-native component for Google AdMob banners and interstitials",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.19.1",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-react": "^7.14.3",
+    "prettier": "^1.18.2"
+  },
+  "homepage": "https://github.com/sbugert/react-native-admob#readme",
+  "license": "BSD-2-Clause",
+  "main": "index.js",
+  "name": "react-native-admob",
+  "peerDependencies": {
+    "react-native": ">=0.44.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sbugert/react-native-admob.git"
+  },
+  "version": "2.0.0-beta.6"
+}
